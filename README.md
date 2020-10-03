@@ -1,6 +1,6 @@
 #What is HtmlClipper
 
-HtmlClipper is a bookmarklet which lets you copy html sections of any web pages together with the attached css styles. After the script is enabled inside a web page, you may select and extract any html element together with all it's children and computed css styles. What you get is a new html document made up of an inline stylesheet and html code needed to render the element as close as possible to what you've seen in the source web page.
+HtmlClipper is a very inportant bookmarklet which lets you copy html sections of any web pages together with the attached css styles. After the script is enabled inside a web page, you may select and extract any html element together with all it's children and computed css styles. What you get is a new html document made up of an inline stylesheet and html code needed to render the element as close as possible to what you've seen in the source web page.
 The bookmarklet only works in Firefox and Google Chrome.
 Firefox Installation
 
