@@ -17,3 +17,5 @@ Firefox Installation
 *    press "s" to clip the element
 *    press 'esc' to exit the 'clipping' window
 *    press 'x' to exit HtmlClipper
+
+         Best Regards
